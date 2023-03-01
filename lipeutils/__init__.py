@@ -1,0 +1,16 @@
+__all__ = [
+    "calc_anti",
+    "calc_centavos_crescentes",
+    "calc_dias_vida",
+    "calc_imc",
+    "calc_juros_compostos",
+    "calc_juros_simples",
+    "calc_lucro",
+    "conversor_m_p",
+    "loterias",
+    "mega_sena",
+    "simp_fracoes",
+    "test_primos",
+    "Util",
+    "lipeutils",
+]
