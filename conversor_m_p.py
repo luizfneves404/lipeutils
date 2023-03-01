@@ -1,6 +1,3 @@
-COMMAND_NAME = "convmp"
-
-
 def main():
     import argparse
 
