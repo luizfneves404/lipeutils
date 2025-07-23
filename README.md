@@ -12,7 +12,7 @@ It contains the following utils (with subcommand to invoke each of them inside p
 - calc_dias_de_vida (cdv) - for calculating how many days you have been alive for
 - calc_imc (cimc) - for calculating your bmi
 - calc_lucro (cl) - for calculating profit in a buy-sell cycle of anything, given starting price, final price and quantity
-- conversor_m_p (convmp) - for calculating
+- conversor_m_p (convmp) - for converting between feet and meters
 - loterias (lot) - choose a difficulty (10 numbers, 100 numbers or 1000) then make a guess
 - mega-sena (mega) - brazillian lottery simulator
 - simp-fracoes (simp) - for simplifying a fraction
